@@ -15,6 +15,6 @@ ls -l
 * Etc.
 
 * What about
- ```
- ls -l _thing_
- ```
+ 
+  > ls -l _thing_
+ 
